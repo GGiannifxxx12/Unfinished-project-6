@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #000;
+    color: white;
+}
+
+.game-container {
+    border: 2px solid #fff;
+}
